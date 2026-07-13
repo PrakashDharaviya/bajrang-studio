@@ -62,7 +62,7 @@ export default function DigitalCard() {
           <div className="adv-logo-text">Photography</div>
         </div>
         <div className="adv-small-right">
-          <h4>Digital Portfolio</h4>
+          <h4>Bajrang Studio</h4>
           <span className="adv-view-link">View Portfolio ➔</span>
         </div>
       </div>
@@ -94,11 +94,6 @@ export default function DigitalCard() {
                 <button className="adv-action-btn" onClick={handleCall} title="Call Now">
                   <svg viewBox="0 0 24 24" className="adv-btn-icon">
                     <path fill="currentColor" d="M6.62,10.79C8.06,13.62 10.38,15.94 13.21,17.38L15.41,15.18C15.69,14.9 16.08,14.82 16.43,14.93C17.55,15.3 18.75,15.5 20,15.5A1,1 0 0,1 21,16.5V20A1,1 0 0,1 20,21A17,17 0 0,1 3,4A1,1 0 0,1 4,3H7.5A1,1 0 0,1 8.5,4C8.5,5.25 8.7,6.45 9.07,7.57C9.18,7.92 9.1,8.31 8.82,8.59L6.62,10.79Z" />
-                  </svg>
-                </button>
-                <button className="adv-action-btn" onClick={handleWebsite} title="Visit Website">
-                  <svg viewBox="0 0 24 24" className="adv-btn-icon">
-                    <path fill="currentColor" d="M3.9,12C3.9,10.22 4.62,8.6 5.78,7.44L4.37,6.03C2.9,7.5 2,9.63 2,12C2,14.37 2.9,16.5 4.37,17.97L5.78,16.56C4.62,15.4 3.9,13.78 3.9,12M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,3.9C13.78,3.9 15.4,4.62 16.56,5.78L17.97,4.37C16.5,2.9 14.37,2 12,2C9.63,2 7.5,2.9 6.03,4.37L7.44,5.78C8.6,4.62 10.22,3.9 12,3.9M12,20.1C10.22,20.1 8.6,19.38 7.44,18.22L6.03,19.63C7.5,21.1 9.63,22 12,22C14.37,22 16.5,21.1 17.97,19.63L16.56,18.22C15.4,19.38 13.78,20.1 12,20.1M20.1,12C20.1,13.78 19.38,15.4 18.22,16.56L19.63,17.97C21.1,16.5 22,14.37 22,12C22,9.63 21.1,7.5 19.63,6.03L18.22,7.44C19.38,8.6 20.1,10.22 20.1,12Z" />
                   </svg>
                 </button>
               </div>
