@@ -128,6 +128,11 @@ export default function CoupleStoryDetail({ slug }) {
                     src={img}
                     alt={`${couple.names} - Photo ${i + 1}`}
                     loading="lazy"
+                    ref={(el) => {
+                      if (el && el.complete && !loadedImages[i]) {
+                        handleImageLoad(i);
+                      }
+                    }}
                     onLoad={() => handleImageLoad(i)}
                     style={{ opacity: loadedImages[i] ? 1 : 0 }}
                   />
