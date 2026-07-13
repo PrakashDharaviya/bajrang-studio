@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "yash-love-nidhi",
+    "names": "Yash & Nidhi",
+    "coverImage": "https://bajrangstudio.com/wp-content/uploads/2023/10/1-1.jpg",
+    "description": "A beautiful love story captured in the heart of Jamnagar. Their chemistry made every frame magical.",
+    "date": "2023-10-15",
+    "location": "Jamnagar",
+    "images": [
+      "https://bajrangstudio.com/wp-content/uploads/2023/10/1-1.jpg"
+    ]
+  },
+  {
+    "slug": "pragnesh-love-hina",
+    "names": "Pragnesh & Hina",
+    "coverImage": "https://bajrangstudio.com/wp-content/uploads/2023/10/2-1.jpg",
+    "description": "Romance meets royalty in this stunning pre-wedding shoot. Every moment was picture-perfect.",
+    "date": "2023-09-20",
+    "location": "Jamnagar",
+    "images": [
+      "https://bajrangstudio.com/wp-content/uploads/2023/10/2-1.jpg"
+    ]
+  },
+  {
+    "slug": "nipur-love-usha",
+    "names": "Nipur & Usha",
+    "coverImage": "https://bajrangstudio.com/wp-content/uploads/2023/10/3-2.jpg",
+    "description": "A timeless tale of love, beautifully captured through our lens. Pure magic in every frame.",
+    "date": "2023-08-10",
+    "location": "Jamnagar",
+    "images": [
+      "https://bajrangstudio.com/wp-content/uploads/2023/10/3-2.jpg"
+    ]
+  },
+  {
+    "slug": "vimal-love-pooja",
+    "names": "Vimal & Pooja",
+    "coverImage": "https://bajrangstudio.com/wp-content/uploads/2023/10/3-1-1.jpg",
+    "description": "Two souls, one love story. Their wedding celebrations were filled with joy and beautiful moments.",
+    "date": "2023-07-25",
+    "location": "Jamnagar",
+    "images": [
+      "https://bajrangstudio.com/wp-content/uploads/2023/10/3-1-1.jpg"
+    ]
+  }
+]

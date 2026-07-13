@@ -1,0 +1,56 @@
+[
+  {
+    "id": "basic",
+    "name": "Silver",
+    "price": "Contact Us",
+    "description": "Perfect for intimate celebrations",
+    "features": [
+      "1 Photographer",
+      "4 Hours Coverage",
+      "100+ Edited Photos",
+      "Online Gallery",
+      "Basic Retouching",
+      "Digital Delivery"
+    ],
+    "popular": false
+  },
+  {
+    "id": "premium",
+    "name": "Gold",
+    "price": "Contact Us",
+    "description": "Our most popular wedding package",
+    "features": [
+      "2 Photographers",
+      "Full Day Coverage",
+      "500+ Edited Photos",
+      "Cinematic Video",
+      "Premium Retouching",
+      "Wedding Album (40 Pages)",
+      "Pre-Wedding Shoot",
+      "Online Gallery",
+      "Drone Coverage"
+    ],
+    "popular": true
+  },
+  {
+    "id": "royal",
+    "name": "Platinum",
+    "price": "Contact Us",
+    "description": "The ultimate luxury wedding experience",
+    "features": [
+      "3+ Photographers",
+      "Multi-Day Coverage",
+      "1000+ Edited Photos",
+      "Cinematic Film + Teaser",
+      "Premium Retouching + AI Enhancement",
+      "Luxury Wedding Album (60 Pages)",
+      "Pre-Wedding Shoot + Video",
+      "LED Wall Slideshow",
+      "Drone Coverage",
+      "Same Day Edit",
+      "Live Streaming",
+      "Priority Delivery"
+    ],
+    "popular": false
+  }
+]

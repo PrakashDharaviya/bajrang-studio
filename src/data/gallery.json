@@ -1,0 +1,97 @@
+[
+  {
+    "src": "/images/gallery/wedding/wedding-1.jpg",
+    "category": "wedding",
+    "alt": "Wedding ceremony photography"
+  },
+  {
+    "src": "/images/gallery/wedding/wedding-2.jpg",
+    "category": "wedding",
+    "alt": "Wedding celebration moments"
+  },
+  {
+    "src": "/images/gallery/pre-wedding/pre-wedding-1.jpg",
+    "category": "pre-wedding",
+    "alt": "Pre-wedding photoshoot"
+  },
+  {
+    "src": "/images/gallery/pre-wedding/pre-wedding-2.jpg",
+    "category": "pre-wedding",
+    "alt": "Couple pre-wedding shoot"
+  },
+  {
+    "src": "/images/gallery/wedding/wedding-3.webp",
+    "category": "wedding",
+    "alt": "Wedding photography"
+  },
+  {
+    "src": "/images/gallery/bridal/bridal-1.webp",
+    "category": "bridal",
+    "alt": "Bridal photography"
+  },
+  {
+    "src": "/images/gallery/wedding/wedding-4.webp",
+    "category": "wedding",
+    "alt": "Wedding ceremony"
+  },
+  {
+    "src": "/images/gallery/pre-wedding/pre-wedding-3.jpg",
+    "category": "pre-wedding",
+    "alt": "Yash and Nidhi pre-wedding"
+  },
+  {
+    "src": "/images/gallery/pre-wedding/pre-wedding-4.jpg",
+    "category": "pre-wedding",
+    "alt": "Pragnesh and Hina pre-wedding"
+  },
+  {
+    "src": "/images/gallery/pre-wedding/pre-wedding-5.jpg",
+    "category": "pre-wedding",
+    "alt": "Nipur and Usha pre-wedding"
+  },
+  {
+    "src": "/images/gallery/wedding/wedding-5.jpg",
+    "category": "wedding",
+    "alt": "Vimal and Pooja wedding"
+  },
+  {
+    "src": "/images/gallery/maternity/maternity-1.jpg",
+    "category": "maternity",
+    "alt": "Maternity photoshoot"
+  },
+  {
+    "src": "/images/gallery/kids/kids-1.jpg",
+    "category": "kids",
+    "alt": "Newborn baby photography"
+  },
+  {
+    "src": "/images/gallery/kids/kids-2.jpg",
+    "category": "kids",
+    "alt": "Kids studio photography"
+  },
+  {
+    "src": "/images/gallery/bridal/bridal-2.webp",
+    "category": "bridal",
+    "alt": "Bridal makeup photography"
+  },
+  {
+    "src": "/images/gallery/groom/groom-1.webp",
+    "category": "groom",
+    "alt": "Groom photography"
+  },
+  {
+    "src": "/images/gallery/mehendi/mehendi-1.webp",
+    "category": "mehendi",
+    "alt": "Mehendi ceremony photography"
+  },
+  {
+    "src": "/images/gallery/haldi/haldi-1.webp",
+    "category": "haldi",
+    "alt": "Haldi ceremony photography"
+  },
+  {
+    "src": "/images/gallery/sangeet/sangeet-1.webp",
+    "category": "sangeet",
+    "alt": "Sangeet night photography"
+  }
+]

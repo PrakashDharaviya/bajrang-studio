@@ -1,0 +1,50 @@
+[
+  {
+    "id": "wedding",
+    "title": "Wedding",
+    "image": "/images/categories/wedding.webp",
+    "link": "/gallery?category=wedding"
+  },
+  {
+    "id": "pre-wedding",
+    "title": "Pre Wedding",
+    "image": "/images/categories/pre-wedding.webp",
+    "link": "/gallery?category=pre-wedding"
+  },
+  {
+    "id": "bridal",
+    "title": "Bridal",
+    "image": "/images/categories/bridal.webp",
+    "link": "/gallery?category=bridal"
+  },
+  {
+    "id": "groom",
+    "title": "Groom",
+    "image": "/images/categories/groom.webp",
+    "link": "/gallery?category=groom"
+  },
+  {
+    "id": "mehendi",
+    "title": "Mehendi",
+    "image": "/images/categories/mehendi.webp",
+    "link": "/gallery?category=mehendi"
+  },
+  {
+    "id": "haldi",
+    "title": "Haldi",
+    "image": "/images/categories/haldi.webp",
+    "link": "/gallery?category=haldi"
+  },
+  {
+    "id": "sangeet",
+    "title": "Sangeet",
+    "image": "/images/categories/sangeet.webp",
+    "link": "/gallery?category=sangeet"
+  },
+  {
+    "id": "maternity",
+    "title": "Maternity",
+    "image": "/images/categories/maternity.webp",
+    "link": "/gallery?category=maternity"
+  }
+]
