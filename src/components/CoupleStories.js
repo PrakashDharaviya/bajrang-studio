@@ -12,6 +12,7 @@ export default function CoupleStories({ limit }) {
           <div className="couple-card-content">
             <h3 className="couple-card-names">{couple.names}</h3>
             <p className="couple-card-location">📍 {couple.location}</p>
+            <p className="couple-card-photos">📸 {couple.images.length} Photos</p>
           </div>
         </Link>
       ))}
